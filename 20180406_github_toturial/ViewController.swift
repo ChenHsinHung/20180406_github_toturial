@@ -18,7 +18,8 @@ class ViewController: UIViewController {
         //功能二 完成
         
         // 功能三，完成 commit
-
+        
+        //修正 功能三 BUG 1.1版
     }
 
     override func didReceiveMemoryWarning() {
