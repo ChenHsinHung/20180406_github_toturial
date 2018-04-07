@@ -22,6 +22,7 @@ class ViewController: UIViewController {
         //修正 功能三 BUG 1.1版
         //功能四 ，分支功能
         //功能五
+        //功能六
 
     }
 
