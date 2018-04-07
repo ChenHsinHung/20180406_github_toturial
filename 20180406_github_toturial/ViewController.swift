@@ -19,6 +19,7 @@ class ViewController: UIViewController {
         
         // 功能三，完成 commit
         
+        //修正 功能三 BUG 1.1版
         //功能四 ，分支功能
         //功能五
 
