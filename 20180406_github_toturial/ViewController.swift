@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         
         //追加 功能一
+        //功能二 完成
+        
 
     }
 
